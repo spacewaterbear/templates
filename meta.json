@@ -3517,6 +3517,23 @@
     ]
   },
   {
+    "id": "lasuite-drive",
+    "name": "La Suite Drive",
+    "version": "main",
+    "description": "La Suite Drive is an open source collaborative file storage application with sharing, office document editing via WOPI, and S3-compatible encrypted storage.",
+    "logo": "lasuite-drive.png",
+    "links": {
+      "github": "https://github.com/suitenumerique/drive",
+      "website": "https://lasuite.numerique.gouv.fr/produits/fichiers",
+      "docs": "https://github.com/suitenumerique/drive/tree/main/docs"
+    },
+    "tags": [
+      "storage",
+      "collaboration",
+      "productivity"
+    ]
+  },
+  {
     "id": "lavalink",
     "name": "Lavalink",
     "version": "4.1.1",
@@ -5950,24 +5967,6 @@
       "video",
       "live-streaming",
       "media"
-    ]
-  },
-  {
-    "id": "strapi",
-    "name": "Strapi",
-    "version": "v5.33.0",
-    "description": "Open-source headless CMS to build powerful APIs with built-in content management.",
-    "logo": "strapi.svg",
-    "links": {
-      "github": "https://github.com/strapi/strapi",
-      "discord": "https://discord.com/invite/strapi",
-      "docs": "https://docs.strapi.io",
-      "website": "https://strapi.io"
-    },
-    "tags": [
-      "headless",
-      "cms",
-      "content-management"
     ]
   },
   {
